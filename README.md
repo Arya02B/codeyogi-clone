@@ -22,10 +22,6 @@ A responsive clone of the CodeYogi learning platform built using HTML, CSS, and 
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/codeyogi-clone.git
-```
-
 2. Open the project folder.
 
 3. Run `index.html` in your browser.
